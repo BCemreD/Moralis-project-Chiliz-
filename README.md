@@ -1,5 +1,5 @@
 ![After running](https://github.com/BCemreD/Moralis-project-Chiliz-/blob/main/1.png)
-# Virtual Meet Tempalte
+# Virtual Meet Template
 
 Template for starting the Virtual Meet in CHZ network, using Moralis
 
